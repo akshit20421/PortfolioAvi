@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "JSS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshit20421/PortfolioAvi.git"
+  },
+  "author": "AKSHIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshit20421/PortfolioAvi/issues"
+  },
+  "homepage": "https://github.com/akshit20421/PortfolioAvi#readme"
+}
